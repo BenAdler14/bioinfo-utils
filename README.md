@@ -32,7 +32,7 @@ Each utility is self-contained in its own directory with its own documentation.
 
 ### Option 1: Clone the entire repository
 ```bash
-git clone https://github.com/yourusername/bioinfo-utils.git
+git clone https://github.com/BenAdler14/bioinfo-utils.git
 python bioinfo-utils/utility_name/script.py --help
 ```
 
@@ -50,3 +50,7 @@ Browse the directories in this repository. Each utility has a README.md explaini
 - What problem it solves
 - Required inputs and expected outputs
 - Usage examples
+
+## AI Development
+
+Tools in this repository are developed in collaboration with [Claude](https://claude.ai) and [Cursor](https://cursor.com). All tools are designed, analyzed, and tested by a human.
