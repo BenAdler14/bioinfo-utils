@@ -93,3 +93,7 @@ logs/
 
 # Test artifacts
 **/test/actual_output.txt
+
+# Claude Code local files
+CLAUDE.local.md
+.claude/
