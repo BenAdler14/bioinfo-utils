@@ -1,0 +1,5 @@
+# Sample input file for testing
+# Lines starting with # are comments and should be skipped
+gene1	chr1	1000	2000	+
+gene2	chr1	3000	4000	-
+gene3	chr2	5000	6000	+

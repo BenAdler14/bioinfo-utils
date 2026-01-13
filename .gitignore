@@ -1,0 +1,95 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.conda/
+
+# Bioinformatics data files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.fasta
+*.fasta.gz
+*.fa
+*.fa.gz
+*.bam
+*.bam.bai
+*.sam
+*.vcf
+*.vcf.gz
+*.bcf
+*.bed
+*.bedgraph
+*.bigwig
+*.bw
+*.gtf
+*.gtf.gz
+*.gff
+*.gff3
+*.gff.gz
+*.gff3.gz
+*.wig
+*.maf
+*.sra
+
+# Data directories
+data/
+downloads/
+databases/
+raw/
+processed/
+results/
+output/
+tmp/
+temp/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+logs/
+
+# Snakemake
+.snakemake/
+
+# Test artifacts
+**/test/actual_output.txt

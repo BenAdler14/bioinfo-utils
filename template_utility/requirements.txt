@@ -1,0 +1,8 @@
+# Dependencies for this utility
+# Uncomment or add packages as needed
+
+# Common bioinformatics packages:
+# biopython>=1.80
+# pandas>=1.5
+# numpy>=1.23
+# pysam>=0.20
